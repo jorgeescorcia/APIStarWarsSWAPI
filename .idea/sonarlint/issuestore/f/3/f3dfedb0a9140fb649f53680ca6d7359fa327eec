@@ -1,0 +1,6 @@
+
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(†Ğ‚›8„‡‹Ûó1J$d40f035a-1088-4f9f-ac1a-e0756167edbd
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8‡‹Ûó1J$bd34af24-3a03-4756-9db0-9a4ab98c812f
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ë†¥Ûó1J$b7a79e9c-9b83-4f0e-86a6-94127a524b69
